@@ -1,0 +1,1 @@
+fprintf(1,"%d\n",sumOfTwoNos(10,30));
